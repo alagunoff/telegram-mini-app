@@ -1,1 +1,1 @@
-# Template for telegram mini applications
+# Template for building telegram mini applications
